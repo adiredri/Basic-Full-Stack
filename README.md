@@ -1,4 +1,4 @@
-# Full-Stack Basics – Web Development Exercises
+# Full-Stack Basics - Web Development Exercises
 
 This repository contains two beginner-level full-stack web development assignments, built as part of a university course. Each project demonstrates frontend structure, styling, and interactive elements using pure HTML, CSS, and JavaScript. The second assignment also includes basic usage of Bootstrap.
 
@@ -6,7 +6,7 @@ Projects are organized into two folders: `WORK1` and `WORK2`, each containing it
 
 ---
 
-## [WORK1 – Search Page Clone](https://github.com/adiredri/Basic-Full-Stack/tree/main/WORK1)
+## [WORK1 - Search Page Clone](https://github.com/adiredri/Basic-Full-Stack/tree/main/WORK1)
 
 A static simulation of a Google-style search engine interface.
 
@@ -19,7 +19,7 @@ This assignment focuses on clean semantic HTML, visual styling with CSS, and use
 
 ---
 
-## [WORK2 – Profile Cards with Bootstrap](https://github.com/adiredri/Basic-Full-Stack/tree/main/WORK2)
+## [WORK2 - Profile Cards with Bootstrap](https://github.com/adiredri/Basic-Full-Stack/tree/main/WORK2)
 
 A single-page application that displays responsive profile cards styled using Bootstrap.
 
