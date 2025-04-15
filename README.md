@@ -6,7 +6,7 @@ Projects are organized into two folders: `Search Page Clone` and `Profile Cards 
 
 ---
 
-## [Search Page Clone](https://github.com/adiredri/Basic-Full-Stack/tree/main/WORK1)
+## [Search Page Clone](https://github.com/adiredri/Basic-Full-Stack/tree/main/Search%20Page%20Clone)
 
 A static simulation of a Google-style search engine interface.
 
@@ -19,7 +19,7 @@ This assignment focuses on clean semantic HTML, visual styling with CSS, and use
 
 ---
 
-## [Profile Cards with Bootstrap](https://github.com/adiredri/Basic-Full-Stack/tree/main/WORK2)
+## [Profile Cards with Bootstrap](https://github.com/adiredri/Basic-Full-Stack/tree/main/Profile%20Cards%20with%20Bootstrap)
 
 A single-page application that displays responsive profile cards styled using Bootstrap.
 
